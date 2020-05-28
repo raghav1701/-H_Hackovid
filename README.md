@@ -5,7 +5,7 @@ https://drive.google.com/file/d/1hOevUl0JZzh9Uue0QUPaL3F0n9j9tMO_/view?usp=shari
 
 
 Feature :
-1. Login And Signup By the user
+1. Login And Signup By the Organising Community
 2. User Dasboard
 3. Profile Update section
 4. Forgot Password facility and can re reset by a link send on mail-id
